@@ -1,0 +1,10 @@
+Name: Types
+Type: FolderType
+Children:
+- Name: Tank
+  Id: g=7e0d6fd1a7accabbbda45f9061c34255
+  Supertype: BaseObjectType
+  Children:
+  - Name: Nivel
+    Type: BaseDataVariableType
+    DataType: Int32

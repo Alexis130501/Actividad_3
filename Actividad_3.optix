@@ -39,15 +39,15 @@ Project:
    Module: FTOptix.MQTTClient
    Version: 7.0
  Statistics:
-  TotalNodeCount: 173
-  Objects: 80
-  ObjectTypes: 1
-  Variables: 92
+  TotalNodeCount: 233
+  Objects: 93
+  ObjectTypes: 7
+  Variables: 133
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
-  References: 3
+  References: 5
   ReferenceTypes: 0
-  Files: 24
+  Files: 26
  Nodes:
  - File: Nodes/Actividad_3.yaml

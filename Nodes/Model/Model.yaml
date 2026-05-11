@@ -3,3 +3,11 @@ Type: ModelCategoryFolder
 Children:
 - File: Publisher/Publisher.yaml
 - File: Subscriber/Subscriber.yaml
+- File: Types/Types.yaml
+- Name: Tank1
+  Type: Tank
+  Children:
+  - Name: Nivel
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 40
